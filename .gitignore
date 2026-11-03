@@ -1,0 +1,23 @@
+# JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Vim
+*.swp
+*.swo
+*~
+.*.sw?
+Session.vim
+.netrwhist
+tags
